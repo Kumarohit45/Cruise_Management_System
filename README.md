@@ -1,2 +1,2 @@
-# Cruise_Management_System
+# Cruise Management System
 Cruise Management System
